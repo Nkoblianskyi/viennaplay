@@ -3,7 +3,38 @@
     "id": "tischspiele-auswahl",
     "title": "Die richtige Auswahl eines Tischspiels für Ihr Zuhause",
     "date": "2025-04-15",
-    "excerpt": "Erfahren Sie, worauf Sie bei der Auswahl eines Tischspiels für Ihr Zuhause achten sollten, von Platzanforderungen bis hin zu Spielervorlieben.",
+    "excerpt": "Die Wahl des passenden Tischspiels für Ihr Zuhause kann eine unterhaltsame, aber auch herausfordernde Aufgabe sein. Es gilt, zahlreiche Faktoren zu berücksichtigen – etwa den verfügbaren Platz, die Anzahl der regelmäßigen Mitspieler, die Altersgruppe der Beteiligten sowie das bevorzugte Spielniveau.",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Tischspiele bringen Menschen zusammen und schaffen gemeinsame Erlebnisse. Egal ob mit Familie, Freunden oder Kollegen – ein gutes Spiel sorgt für Unterhaltung, Lachen und manchmal sogar für spannende Wettkämpfe."
+      },
+      {
+        "type": "heading",
+        "text": "Worauf kommt es bei der Auswahl an?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Die Entscheidung sollte auf die Zielgruppe abgestimmt sein. Kinder benötigen einfache Regeln und bunte Designs, Erwachsene legen Wert auf Strategie oder Geschicklichkeit."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Platzangebot in Ihrer Wohnung",
+          "Alter und Anzahl der Spieler",
+          "Vorlieben: Geschick, Strategie, Zufall",
+          "Aufbauzeit und Spiellänge"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Auch das Material spielt eine Rolle – robuste Bauweise aus Holz wirkt hochwertig und langlebig. Kunststoffmodelle hingegen sind oft leichter und günstiger."
+      },
+      {
+        "type": "paragraph",
+        "text": "Letztlich sollte das Spiel zur Stimmung und dem Stil Ihres Zuhauses passen. Ein Tischspiel im Wohnzimmer wird schnell zum Mittelpunkt der Freizeitgestaltung."
+      }
+    ],
     "image": "/e90c3746145092b587d66dfa89590a2f.jpg",
     "category": "Ratgeber"
   },
@@ -11,7 +42,38 @@
     "id": "tischfussball-pflege",
     "title": "Pflege- und Wartungstipps für Ihren Tischfußball-Tisch",
     "date": "2025-03-22",
-    "excerpt": "Lernen Sie, wie Sie Ihren Tischfußball-Tisch richtig pflegen und warten, um seine Lebensdauer zu verlängern und optimale Spieleigenschaften zu erhalten.",
+    "excerpt": "Ein Tischfußball-Tisch ist nicht nur ein Spielgerät, sondern auch eine Investition in Spielspaß und Gemeinschaft. Damit Sie lange Freude daran haben, ist eine regelmäßige Pflege und fachgerechte Wartung unerlässlich.",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Ein gut gepflegter Tischfußball-Tisch hält viele Jahre und sorgt dauerhaft für ein angenehmes Spielgefühl. Vernachlässigte Wartung hingegen führt schnell zu Verschleiß und Frust beim Spiel."
+      },
+      {
+        "type": "heading",
+        "text": "Pflege-Routine für Zuhause oder im Büro"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Tischoberfläche mit trockenem Tuch abwischen",
+          "Stangen regelmäßig ölen, um Leichtgängigkeit zu erhalten",
+          "Tore und Spielfläche von Staub und Krümeln befreien",
+          "Spielerfiguren auf Risse und Brüche prüfen"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Besonders bei häufigem Gebrauch im Büro oder bei Kindern empfiehlt sich eine monatliche Komplettkontrolle. Auch die Schrauben sollten dabei angezogen werden."
+      },
+      {
+        "type": "paragraph",
+        "text": "Lagern Sie den Tisch möglichst trocken und geschützt vor direkter Sonneneinstrahlung. Bei Outdoor-Modellen ist eine wetterfeste Abdeckung unverzichtbar."
+      },
+      {
+        "type": "paragraph",
+        "text": "Eine gute Pflege zahlt sich langfristig aus und erhält sowohl Spielfreude als auch den Wiederverkaufswert."
+      }
+    ],
     "image": "/4aa196cd4be508f093f64e4fddcfd030.jpg",
     "category": "Pflege & Wartung"
   },
@@ -19,7 +81,38 @@
     "id": "airhockey-regeln",
     "title": "Airhockey: Regeln und Strategien für Anfänger",
     "date": "2025-02-10",
-    "excerpt": "Ein umfassender Leitfaden zu den Regeln und grundlegenden Strategien von Airhockey für Anfänger.",
+    "excerpt": "Airhockey begeistert durch seine Schnelligkeit und den einfachen Einstieg – doch wer erfolgreich spielen will, sollte die grundlegenden Regeln und einige strategische Kniffe kennen.",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Airhockey zählt zu den beliebtesten schnellen Reaktionsspielen. Zwei Spieler stehen sich gegenüber und versuchen, den Puck mit einem Schläger ins gegnerische Tor zu befördern."
+      },
+      {
+        "type": "heading",
+        "text": "Offizielle Grundregeln"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Gespielt wird bis 7 Punkte oder 10 Minuten",
+          "Nur ein Puck auf dem Tisch",
+          "Schlagen mit der Hand ist nicht erlaubt",
+          "Nach Torerfolg erhält Gegner den Aufschlag"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Eine gute Defensive ist genauso wichtig wie gezielte Schüsse. Anfänger neigen oft dazu, zu offensiv zu spielen und das eigene Tor zu vernachlässigen."
+      },
+      {
+        "type": "paragraph",
+        "text": "Profis nutzen Winkel, Banden und Täuschungsmanöver, um den Gegner auszuspielen. Mit etwas Übung kann man sich schnell verbessern und die Reaktionszeit verkürzen."
+      },
+      {
+        "type": "paragraph",
+        "text": "Airhockey eignet sich ideal für Pausen, Events oder Jugendräume und ist leicht verständlich für jedes Alter."
+      }
+    ],
     "image": "/5804a35655b17c31340ec8f4db2f6595.jpg",
     "category": "Spielregeln"
   },
@@ -27,7 +120,38 @@
     "id": "tischspiele-buro",
     "title": "Tischspiele im Büro: Förderung von Teambuilding und Kreativität",
     "date": "2025-01-05",
-    "excerpt": "Entdecken Sie, wie Tischspiele im Büro zur Förderung von Teambuilding, Kreativität und Mitarbeiterzufriedenheit beitragen können.",
+    "excerpt": "Tischspiele im Büro sind mehr als nur ein netter Zeitvertreib – sie fördern die Kommunikation, das Teambuilding und die kreative Zusammenarbeit unter Kollegen.",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Die moderne Arbeitswelt verlangt nach kreativen Lösungen und starkem Teamgeist. Tischspiele können hierzu einen wichtigen Beitrag leisten – und das ganz ohne große Investitionen."
+      },
+      {
+        "type": "heading",
+        "text": "Positive Auswirkungen auf das Arbeitsklima"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Verbesserte Kommunikation und Offenheit",
+          "Stärkere Bindung zwischen Teammitgliedern",
+          "Reduzierter Stress durch aktive Pausen",
+          "Förderung von kreativen Denkprozessen"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Egal ob Tischkicker, Mini-Billard oder Shuffleboard – schon wenige Minuten Spielzeit am Tag sorgen für eine willkommene Abwechslung und neue Energie."
+      },
+      {
+        "type": "paragraph",
+        "text": "Dabei sollten die Spiele frei zugänglich sein und freiwillig genutzt werden – nur so entfalten sie ihr volles Potenzial."
+      },
+      {
+        "type": "paragraph",
+        "text": "Firmen, die auf spielerische Elemente setzen, berichten häufiger von zufriedeneren Mitarbeitenden und innovativeren Ideen im Team."
+      }
+    ],
     "image": "/d4f24e3e32e3b2c8be38c9c97894090d.jpg",
     "category": "Business"
   }

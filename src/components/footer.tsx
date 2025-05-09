@@ -11,9 +11,6 @@ export function Footer() {
           <Link href="/cookies" className="text-sm leading-6 text-gray-300 hover:text-white">
             Cookies
           </Link>
-          <Link href="/impressum" className="text-sm leading-6 text-gray-300 hover:text-white">
-            Impressum
-          </Link>
         </div>
         <div className="mt-8 md:order-1 md:mt-0">
           <div className="flex flex-col space-y-2">
