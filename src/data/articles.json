@@ -1,0 +1,34 @@
+[
+  {
+    "id": "tischspiele-auswahl",
+    "title": "Die richtige Auswahl eines Tischspiels für Ihr Zuhause",
+    "date": "2025-04-15",
+    "excerpt": "Erfahren Sie, worauf Sie bei der Auswahl eines Tischspiels für Ihr Zuhause achten sollten, von Platzanforderungen bis hin zu Spielervorlieben.",
+    "image": "/e90c3746145092b587d66dfa89590a2f.jpg",
+    "category": "Ratgeber"
+  },
+  {
+    "id": "tischfussball-pflege",
+    "title": "Pflege- und Wartungstipps für Ihren Tischfußball-Tisch",
+    "date": "2025-03-22",
+    "excerpt": "Lernen Sie, wie Sie Ihren Tischfußball-Tisch richtig pflegen und warten, um seine Lebensdauer zu verlängern und optimale Spieleigenschaften zu erhalten.",
+    "image": "/4aa196cd4be508f093f64e4fddcfd030.jpg",
+    "category": "Pflege & Wartung"
+  },
+  {
+    "id": "airhockey-regeln",
+    "title": "Airhockey: Regeln und Strategien für Anfänger",
+    "date": "2025-02-10",
+    "excerpt": "Ein umfassender Leitfaden zu den Regeln und grundlegenden Strategien von Airhockey für Anfänger.",
+    "image": "/5804a35655b17c31340ec8f4db2f6595.jpg",
+    "category": "Spielregeln"
+  },
+  {
+    "id": "tischspiele-buro",
+    "title": "Tischspiele im Büro: Förderung von Teambuilding und Kreativität",
+    "date": "2025-01-05",
+    "excerpt": "Entdecken Sie, wie Tischspiele im Büro zur Förderung von Teambuilding, Kreativität und Mitarbeiterzufriedenheit beitragen können.",
+    "image": "/d4f24e3e32e3b2c8be38c9c97894090d.jpg",
+    "category": "Business"
+  }
+]
